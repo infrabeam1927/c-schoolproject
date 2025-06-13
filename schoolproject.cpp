@@ -342,7 +342,7 @@ void intro()
 	cout<<"\n\n\n\t\t  STUDENT";
 	cout<<"\n\n\t\tREPORT CARD";
 	cout<<"\n\n\t\t  PROJECT";
-	cout<<"\n\n\n\tMADE BY : HAMZA AHMED KHAN";
+	cout<<"\n\n\n\tMADE BY : HAMZA AHMED KHAN AND AADITYA SENTHILKUMAR";
 	cout<<"\n\tSCHOOL : DPS-MODERN INDIAN SCHOOL";
 	getch();
 }
